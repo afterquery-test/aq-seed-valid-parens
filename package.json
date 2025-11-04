@@ -1,9 +1,0 @@
-{
-    "name": "aq-seed-valid-parens-min",
-    "version": "1.0.0",
-    "private": true,
-    "scripts": {
-      "test": "node --test"
-    }
-  }
-  

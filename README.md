@@ -1,10 +1,10 @@
-# Valid Parentheses (Minimal Seed)
+# Valid Parentheses (Python, minimal)
 
-Implement `isValidParentheses(s: string): boolean` in `solution.js`.
+Implement `is_valid_parentheses(s: str) -> bool` in `solution.py`.
 
-- Only `()[]{}` are considered.
-- Return `true` if brackets are balanced and properly nested, else `false`.
+- Only the characters `()[]{}` are considered.
+- Return `True` if brackets are balanced and properly nested; else `False`.
 
 ## Run
 ```bash
-npm test
+python -m unittest -q
